@@ -1,0 +1,197 @@
+[2025-02-24 22:42:37] [INFO] [main] com.example.webapp.JettyServer - Starting Jetty server...
+[2025-02-24 22:42:38] [INFO] [main] org.eclipse.jetty.server.Server - jetty-11.0.16; built: 2023-08-25T19:43:30.438Z; git: bedff458c4dd1a716d59e17b8cb0d2042eeab291; jvm 23.0.2+7-58
+[2025-02-24 22:42:38] [INFO] [main] o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+[2025-02-24 22:42:38] [INFO] [main] o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@78123e82{/,null,AVAILABLE}
+[2025-02-24 22:42:38] [INFO] [main] o.e.jetty.server.AbstractConnector - Started ServerConnector@15eb5ee5{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+[2025-02-24 22:42:38] [INFO] [main] org.eclipse.jetty.server.Server - Started Server@31190526{STARTING}[11.0.16,sto=0] @943ms
+[2025-02-24 22:42:38] [INFO] [main] com.example.webapp.JettyServer -  http://localhost:8080/webpage
+[2025-02-24 22:47:12] [INFO] [main] com.example.webapp.JettyServer - Starting Jetty server...
+[2025-02-24 22:47:12] [INFO] [main] org.eclipse.jetty.server.Server - jetty-11.0.16; built: 2023-08-25T19:43:30.438Z; git: bedff458c4dd1a716d59e17b8cb0d2042eeab291; jvm 23.0.2+7-58
+[2025-02-24 22:47:12] [INFO] [main] o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+[2025-02-24 22:47:12] [INFO] [main] o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@78123e82{/,null,AVAILABLE}
+[2025-02-24 22:47:12] [INFO] [main] o.e.jetty.server.AbstractConnector - Started ServerConnector@15eb5ee5{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+[2025-02-24 22:47:12] [INFO] [main] org.eclipse.jetty.server.Server - Started Server@31190526{STARTING}[11.0.16,sto=0] @830ms
+[2025-02-24 22:47:12] [INFO] [main] com.example.webapp.JettyServer -  http://localhost:8080/webpage
+[2025-02-24 22:48:37] [INFO] [main] com.example.webapp.JettyServer - Starting Jetty server...
+[2025-02-24 22:48:37] [INFO] [main] org.eclipse.jetty.server.Server - jetty-11.0.16; built: 2023-08-25T19:43:30.438Z; git: bedff458c4dd1a716d59e17b8cb0d2042eeab291; jvm 23.0.2+7-58
+[2025-02-24 22:48:37] [INFO] [main] o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+[2025-02-24 22:48:37] [INFO] [main] o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@78123e82{/,null,AVAILABLE}
+[2025-02-24 22:48:37] [INFO] [main] o.e.jetty.server.AbstractConnector - Started ServerConnector@15eb5ee5{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+[2025-02-24 22:48:37] [INFO] [main] org.eclipse.jetty.server.Server - Started Server@31190526{STARTING}[11.0.16,sto=0] @826ms
+[2025-02-24 22:48:37] [INFO] [main] com.example.webapp.JettyServer -  http://localhost:8080/webpage
+[2025-02-24 22:48:40] [INFO] [qtp990355670-55] com.example.webapp.HelloServlet - Received request from [0:0:0:0:0:0:0:1]
+[2025-02-24 22:48:40] [DEBUG] [qtp990355670-55] com.example.webapp.HelloServlet - Response sent successfully
+[2025-02-25 08:44:02] [INFO] [main] com.example.webapp.JettyServer - Starting Jetty server...
+[2025-02-25 08:44:03] [INFO] [main] org.eclipse.jetty.server.Server - jetty-11.0.16; built: 2023-08-25T19:43:30.438Z; git: bedff458c4dd1a716d59e17b8cb0d2042eeab291; jvm 23.0.2+7-58
+[2025-02-25 08:44:03] [INFO] [main] o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+[2025-02-25 08:44:03] [INFO] [main] o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@78123e82{/,null,AVAILABLE}
+[2025-02-25 08:44:03] [INFO] [main] o.e.jetty.server.AbstractConnector - Started ServerConnector@15eb5ee5{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+[2025-02-25 08:44:03] [INFO] [main] org.eclipse.jetty.server.Server - Started Server@31190526{STARTING}[11.0.16,sto=0] @597ms
+[2025-02-25 08:44:03] [INFO] [main] com.example.webapp.JettyServer -  http://localhost:8080/webpage
+[2025-02-25 08:44:08] [INFO] [qtp990355670-55] com.example.webapp.HelloServlet - Received request from [0:0:0:0:0:0:0:1]
+[2025-02-25 08:44:08] [DEBUG] [qtp990355670-55] com.example.webapp.HelloServlet - Response sent successfully
+[2025-02-25 09:15:53] [INFO] [main] com.example.webapp.JettyServer - Starting Jetty server...
+[2025-02-25 09:15:53] [INFO] [main] org.eclipse.jetty.server.Server - jetty-11.0.16; built: 2023-08-25T19:43:30.438Z; git: bedff458c4dd1a716d59e17b8cb0d2042eeab291; jvm 23.0.2+7-58
+[2025-02-25 09:15:53] [INFO] [main] o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+[2025-02-25 09:15:53] [INFO] [main] o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@78123e82{/,null,AVAILABLE}
+[2025-02-25 09:15:53] [INFO] [main] o.e.jetty.server.AbstractConnector - Started ServerConnector@15eb5ee5{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+[2025-02-25 09:15:53] [INFO] [main] org.eclipse.jetty.server.Server - Started Server@31190526{STARTING}[11.0.16,sto=0] @946ms
+[2025-02-25 09:15:53] [INFO] [main] com.example.webapp.JettyServer -  http://localhost:8080/webpage
+[2025-02-25 09:15:55] [INFO] [qtp990355670-53] com.example.webapp.HelloServlet - Received request from [0:0:0:0:0:0:0:1]
+[2025-02-25 09:15:55] [DEBUG] [qtp990355670-53] com.example.webapp.HelloServlet - Response sent successfully
+[2025-02-25 09:16:34] [INFO] [main] com.example.webapp.JettyServer - Starting Jetty server...
+[2025-02-25 09:16:34] [INFO] [main] org.eclipse.jetty.server.Server - jetty-11.0.16; built: 2023-08-25T19:43:30.438Z; git: bedff458c4dd1a716d59e17b8cb0d2042eeab291; jvm 23.0.2+7-58
+[2025-02-25 09:16:34] [INFO] [main] o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+[2025-02-25 09:16:34] [INFO] [main] o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@78123e82{/,null,AVAILABLE}
+[2025-02-25 09:16:34] [INFO] [main] o.e.jetty.server.AbstractConnector - Started ServerConnector@15eb5ee5{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+[2025-02-25 09:16:34] [INFO] [main] org.eclipse.jetty.server.Server - Started Server@31190526{STARTING}[11.0.16,sto=0] @1110ms
+[2025-02-25 09:16:34] [INFO] [main] com.example.webapp.JettyServer -  http://localhost:8080/webpage
+[2025-02-25 09:16:36] [INFO] [qtp990355670-54] com.example.webapp.HelloServlet - Received request from [0:0:0:0:0:0:0:1]
+[2025-02-25 09:16:36] [DEBUG] [qtp990355670-54] com.example.webapp.HelloServlet - Response sent successfully
+[2025-02-25 09:25:30] [INFO] [qtp990355670-56] com.example.webapp.HelloServlet - Received request from [0:0:0:0:0:0:0:1]
+[2025-02-25 09:25:30] [DEBUG] [qtp990355670-56] com.example.webapp.HelloServlet - Response sent successfully
+[2025-02-25 09:25:32] [INFO] [qtp990355670-57] com.example.webapp.HelloServlet - Received request from [0:0:0:0:0:0:0:1]
+[2025-02-25 09:25:32] [DEBUG] [qtp990355670-57] com.example.webapp.HelloServlet - Response sent successfully
+[2025-02-25 09:27:06] [INFO] [qtp990355670-57] com.example.webapp.HelloServlet - Received request from [0:0:0:0:0:0:0:1]
+[2025-02-25 09:27:06] [DEBUG] [qtp990355670-57] com.example.webapp.HelloServlet - Response sent successfully
+[2025-02-25 09:27:49] [INFO] [main] com.example.webapp.JettyServer - Starting Jetty server...
+[2025-02-25 09:27:49] [INFO] [main] org.eclipse.jetty.server.Server - jetty-11.0.16; built: 2023-08-25T19:43:30.438Z; git: bedff458c4dd1a716d59e17b8cb0d2042eeab291; jvm 23.0.2+7-58
+[2025-02-25 09:27:49] [INFO] [main] o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+[2025-02-25 09:27:49] [INFO] [main] o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@78123e82{/,null,AVAILABLE}
+[2025-02-25 09:27:49] [INFO] [main] o.e.jetty.server.AbstractConnector - Started ServerConnector@15eb5ee5{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+[2025-02-25 09:27:50] [INFO] [main] org.eclipse.jetty.server.Server - Started Server@31190526{STARTING}[11.0.16,sto=0] @932ms
+[2025-02-25 09:27:50] [INFO] [main] com.example.webapp.JettyServer -  http://localhost:8080/webpage
+[2025-02-25 09:46:13] [INFO] [main] com.example.webapp.JettyServer - Starting Jetty server...
+[2025-02-25 09:46:14] [INFO] [main] org.eclipse.jetty.server.Server - jetty-11.0.17; built: 2023-10-09T18:39:14.424Z; git: 48e7716b9462bebea6732b885dbebb4300787a5c; jvm 23.0.2+7-58
+[2025-02-25 09:46:14] [INFO] [main] o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+[2025-02-25 09:46:14] [INFO] [main] o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@3bf9ce3e{/,null,AVAILABLE}
+[2025-02-25 09:46:14] [INFO] [main] o.e.jetty.server.AbstractConnector - Started ServerConnector@3427b02d{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+[2025-02-25 09:46:14] [INFO] [main] org.eclipse.jetty.server.Server - Started Server@6f03482{STARTING}[11.0.17,sto=0] @937ms
+[2025-02-25 09:46:14] [INFO] [main] com.example.webapp.JettyServer -  http://localhost:8080/webpage
+[2025-02-25 09:46:16] [INFO] [qtp2065857933-53] com.example.webapp.HelloServlet - Received request from [0:0:0:0:0:0:0:1]
+[2025-02-25 09:46:16] [DEBUG] [qtp2065857933-53] com.example.webapp.HelloServlet - Response sent successfully
+[2025-02-25 09:47:10] [INFO] [main] com.example.webapp.JettyServer - Starting Jetty server...
+[2025-02-25 09:47:10] [INFO] [main] org.eclipse.jetty.server.Server - jetty-11.0.17; built: 2023-10-09T18:39:14.424Z; git: 48e7716b9462bebea6732b885dbebb4300787a5c; jvm 23.0.2+7-58
+[2025-02-25 09:47:10] [INFO] [main] o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+[2025-02-25 09:47:10] [INFO] [main] o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@3bf9ce3e{/,null,AVAILABLE}
+[2025-02-25 09:47:11] [INFO] [main] o.e.jetty.server.AbstractConnector - Started ServerConnector@3427b02d{HTTP/1.1, (http/1.1)}{0.0.0.0:800}
+[2025-02-25 09:47:11] [INFO] [main] org.eclipse.jetty.server.Server - Started Server@6f03482{STARTING}[11.0.17,sto=0] @937ms
+[2025-02-25 09:47:11] [INFO] [main] com.example.webapp.JettyServer -  http://localhost:8080/webpage
+[2025-02-25 09:47:21] [INFO] [qtp2065857933-54] com.example.webapp.HelloServlet - Received request from [0:0:0:0:0:0:0:1]
+[2025-02-25 09:47:21] [DEBUG] [qtp2065857933-54] com.example.webapp.HelloServlet - Response sent successfully
+[2025-02-25 09:47:49] [INFO] [main] com.example.webapp.JettyServer - Starting Jetty server...
+[2025-02-25 09:47:50] [INFO] [main] org.eclipse.jetty.server.Server - jetty-11.0.17; built: 2023-10-09T18:39:14.424Z; git: 48e7716b9462bebea6732b885dbebb4300787a5c; jvm 23.0.2+7-58
+[2025-02-25 09:47:50] [INFO] [main] o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+[2025-02-25 09:47:50] [INFO] [main] o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@3bf9ce3e{/,null,AVAILABLE}
+[2025-02-25 09:47:50] [INFO] [main] o.e.jetty.server.AbstractConnector - Started ServerConnector@3427b02d{HTTP/1.1, (http/1.1)}{0.0.0.0:1}
+[2025-02-25 09:47:50] [INFO] [main] org.eclipse.jetty.server.Server - Started Server@6f03482{STARTING}[11.0.17,sto=0] @957ms
+[2025-02-25 09:47:50] [INFO] [main] com.example.webapp.JettyServer -  http://localhost:8080/webpage
+[2025-02-25 09:48:15] [INFO] [main] com.example.webapp.JettyServer - Starting Jetty server...
+[2025-02-25 09:48:16] [INFO] [main] org.eclipse.jetty.server.Server - jetty-11.0.17; built: 2023-10-09T18:39:14.424Z; git: 48e7716b9462bebea6732b885dbebb4300787a5c; jvm 23.0.2+7-58
+[2025-02-25 09:48:16] [INFO] [main] o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+[2025-02-25 09:48:16] [INFO] [main] o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@3bf9ce3e{/,null,AVAILABLE}
+[2025-02-25 09:48:16] [INFO] [main] o.e.jetty.server.AbstractConnector - Started ServerConnector@3427b02d{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+[2025-02-25 09:48:16] [INFO] [main] org.eclipse.jetty.server.Server - Started Server@6f03482{STARTING}[11.0.17,sto=0] @905ms
+[2025-02-25 09:48:16] [INFO] [main] com.example.webapp.JettyServer -  http://localhost:8080/webpage
+[2025-02-25 09:48:18] [INFO] [qtp2065857933-54] com.example.webapp.HelloServlet - Received request from [0:0:0:0:0:0:0:1]
+[2025-02-25 09:48:18] [DEBUG] [qtp2065857933-54] com.example.webapp.HelloServlet - Response sent successfully
+[2025-02-25 10:00:58] [INFO] [main] com.example.webapp.JettyServer - Starting Jetty server...
+[2025-02-25 10:00:59] [INFO] [main] org.eclipse.jetty.server.Server - jetty-11.0.17; built: 2023-10-09T18:39:14.424Z; git: 48e7716b9462bebea6732b885dbebb4300787a5c; jvm 23.0.2+7-58
+[2025-02-25 10:00:59] [INFO] [main] o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+[2025-02-25 10:00:59] [INFO] [main] o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@16610890{/,null,AVAILABLE}
+[2025-02-25 10:00:59] [INFO] [main] o.e.jetty.server.AbstractConnector - Started ServerConnector@647e447{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+[2025-02-25 10:00:59] [INFO] [main] org.eclipse.jetty.server.Server - Started Server@9d5509a{STARTING}[11.0.17,sto=0] @1692ms
+[2025-02-25 10:00:59] [INFO] [main] com.example.webapp.JettyServer -  http://localhost:8080/webpage
+[2025-02-25 10:01:02] [INFO] [qtp1914301543-53] com.example.webapp.HelloServlet - Received request from [0:0:0:0:0:0:0:1]
+[2025-02-25 10:01:02] [DEBUG] [qtp1914301543-53] com.example.webapp.HelloServlet - Response sent successfully
+[2025-02-25 10:01:03] [INFO] [main] com.example.webapp.JettyServer - Starting Jetty server...
+[2025-02-25 10:01:03] [INFO] [main] org.eclipse.jetty.server.Server - jetty-11.0.17; built: 2023-10-09T18:39:14.424Z; git: 48e7716b9462bebea6732b885dbebb4300787a5c; jvm 23.0.2+7-58
+[2025-02-25 10:01:08] [INFO] [main] com.example.webapp.JettyServer - Starting Jetty server...
+[2025-02-25 10:01:08] [INFO] [main] org.eclipse.jetty.server.Server - jetty-11.0.17; built: 2023-10-09T18:39:14.424Z; git: 48e7716b9462bebea6732b885dbebb4300787a5c; jvm 23.0.2+7-58
+[2025-02-25 10:01:30] [INFO] [main] com.example.webapp.JettyServer - Starting Jetty server...
+[2025-02-25 10:01:30] [INFO] [main] org.eclipse.jetty.server.Server - jetty-11.0.17; built: 2023-10-09T18:39:14.424Z; git: 48e7716b9462bebea6732b885dbebb4300787a5c; jvm 23.0.2+7-58
+[2025-02-25 10:01:30] [INFO] [main] o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+[2025-02-25 10:01:30] [INFO] [main] o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@16610890{/,null,AVAILABLE}
+[2025-02-25 10:01:30] [INFO] [main] o.e.jetty.server.AbstractConnector - Started ServerConnector@647e447{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+[2025-02-25 10:01:30] [INFO] [main] org.eclipse.jetty.server.Server - Started Server@9d5509a{STARTING}[11.0.17,sto=0] @486ms
+[2025-02-25 10:01:30] [INFO] [main] com.example.webapp.JettyServer -  http://localhost:8080/webpage
+[2025-02-25 10:16:53] [INFO] [main] com.example.webapp.JettyServer - Starting Jetty server...
+[2025-02-25 10:16:53] [INFO] [main] org.eclipse.jetty.server.Server - jetty-11.0.17; built: 2023-10-09T18:39:14.424Z; git: 48e7716b9462bebea6732b885dbebb4300787a5c; jvm 23.0.2+7-58
+[2025-02-25 10:16:53] [INFO] [main] o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+[2025-02-25 10:16:53] [INFO] [main] o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@3bf9ce3e{/,null,AVAILABLE}
+[2025-02-25 10:16:53] [INFO] [main] o.e.jetty.server.AbstractConnector - Started ServerConnector@3427b02d{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+[2025-02-25 10:16:53] [INFO] [main] org.eclipse.jetty.server.Server - Started Server@6f03482{STARTING}[11.0.17,sto=0] @549ms
+[2025-02-25 10:16:53] [INFO] [main] com.example.webapp.JettyServer -  http://localhost:8080/webpage
+[2025-02-25 10:16:55] [INFO] [qtp2065857933-53] com.example.webapp.HelloServlet - Received request from [0:0:0:0:0:0:0:1]
+[2025-02-25 10:16:55] [DEBUG] [qtp2065857933-53] com.example.webapp.HelloServlet - Response sent successfully
+[2025-02-25 10:18:38] [INFO] [main] com.example.webapp.JettyServer - Starting Jetty server...
+[2025-02-25 10:18:38] [INFO] [main] org.eclipse.jetty.server.Server - jetty-11.0.17; built: 2023-10-09T18:39:14.424Z; git: 48e7716b9462bebea6732b885dbebb4300787a5c; jvm 23.0.2+7-58
+[2025-02-25 10:18:38] [INFO] [main] o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+[2025-02-25 10:18:38] [INFO] [main] o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@3bf9ce3e{/,null,AVAILABLE}
+[2025-02-25 10:18:38] [INFO] [main] o.e.jetty.server.AbstractConnector - Started ServerConnector@3427b02d{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+[2025-02-25 10:18:38] [INFO] [main] org.eclipse.jetty.server.Server - Started Server@6f03482{STARTING}[11.0.17,sto=0] @472ms
+[2025-02-25 10:18:38] [INFO] [main] com.example.webapp.JettyServer -  http://localhost:8080/webpage
+[2025-02-25 10:18:40] [INFO] [qtp2065857933-55] com.example.webapp.HelloServlet - Received request from [0:0:0:0:0:0:0:1]
+[2025-02-25 10:18:40] [DEBUG] [qtp2065857933-55] com.example.webapp.HelloServlet - Response sent successfully
+[2025-02-25 10:20:24] [INFO] [main] com.example.webapp.JettyServer - Starting Jetty server...
+[2025-02-25 10:20:24] [INFO] [main] org.eclipse.jetty.server.Server - jetty-11.0.17; built: 2023-10-09T18:39:14.424Z; git: 48e7716b9462bebea6732b885dbebb4300787a5c; jvm 23.0.2+7-58
+[2025-02-25 10:20:25] [INFO] [main] o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+[2025-02-25 10:20:25] [INFO] [main] o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@3bf9ce3e{/,null,AVAILABLE}
+[2025-02-25 10:20:25] [INFO] [main] o.e.jetty.server.AbstractConnector - Started ServerConnector@3427b02d{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+[2025-02-25 10:20:25] [INFO] [main] org.eclipse.jetty.server.Server - Started Server@6f03482{STARTING}[11.0.17,sto=0] @431ms
+[2025-02-25 10:20:25] [INFO] [main] com.example.webapp.JettyServer -  http://localhost:8080/webpage
+[2025-02-25 10:20:27] [INFO] [qtp2065857933-53] com.example.webapp.HelloServlet - Received request from [0:0:0:0:0:0:0:1]
+[2025-02-25 10:20:27] [DEBUG] [qtp2065857933-53] com.example.webapp.HelloServlet - Response sent successfully
+[2025-02-25 10:21:06] [INFO] [main] com.example.webapp.JettyServer - Starting Jetty server...
+[2025-02-25 10:21:06] [INFO] [main] org.eclipse.jetty.server.Server - jetty-11.0.17; built: 2023-10-09T18:39:14.424Z; git: 48e7716b9462bebea6732b885dbebb4300787a5c; jvm 23.0.2+7-58
+[2025-02-25 10:21:06] [INFO] [main] o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+[2025-02-25 10:21:06] [INFO] [main] o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@3bf9ce3e{/,null,AVAILABLE}
+[2025-02-25 10:21:06] [INFO] [main] o.e.jetty.server.AbstractConnector - Started ServerConnector@3427b02d{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+[2025-02-25 10:21:06] [INFO] [main] org.eclipse.jetty.server.Server - Started Server@6f03482{STARTING}[11.0.17,sto=0] @431ms
+[2025-02-25 10:21:06] [INFO] [main] com.example.webapp.JettyServer -  http://localhost:8080/webpage
+[2025-02-25 10:21:08] [INFO] [qtp2065857933-55] com.example.webapp.HelloServlet - Received request from [0:0:0:0:0:0:0:1]
+[2025-02-25 10:21:08] [DEBUG] [qtp2065857933-55] com.example.webapp.HelloServlet - Response sent successfully
+[2025-02-25 10:23:07] [INFO] [main] com.example.webapp.JettyServer - Starting Jetty server...
+[2025-02-25 10:23:07] [INFO] [main] org.eclipse.jetty.server.Server - jetty-11.0.17; built: 2023-10-09T18:39:14.424Z; git: 48e7716b9462bebea6732b885dbebb4300787a5c; jvm 23.0.2+7-58
+[2025-02-25 10:23:07] [INFO] [main] o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+[2025-02-25 10:23:07] [INFO] [main] o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@3bf9ce3e{/,null,AVAILABLE}
+[2025-02-25 10:23:07] [INFO] [main] o.e.jetty.server.AbstractConnector - Started ServerConnector@3427b02d{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+[2025-02-25 10:23:07] [INFO] [main] org.eclipse.jetty.server.Server - Started Server@6f03482{STARTING}[11.0.17,sto=0] @465ms
+[2025-02-25 10:23:07] [INFO] [main] com.example.webapp.JettyServer -  http://localhost:8080/webpage
+[2025-02-25 10:24:11] [INFO] [main] com.example.webapp.JettyServer - Starting Jetty server...
+[2025-02-25 10:24:11] [INFO] [main] org.eclipse.jetty.server.Server - jetty-11.0.17; built: 2023-10-09T18:39:14.424Z; git: 48e7716b9462bebea6732b885dbebb4300787a5c; jvm 23.0.2+7-58
+[2025-02-25 10:24:11] [INFO] [main] o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+[2025-02-25 10:24:11] [INFO] [main] o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@3bf9ce3e{/,null,AVAILABLE}
+[2025-02-25 10:24:11] [INFO] [main] o.e.jetty.server.AbstractConnector - Started ServerConnector@3427b02d{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+[2025-02-25 10:24:11] [INFO] [main] org.eclipse.jetty.server.Server - Started Server@6f03482{STARTING}[11.0.17,sto=0] @430ms
+[2025-02-25 10:24:11] [INFO] [main] com.example.webapp.JettyServer -  http://localhost:8080/webpage
+[2025-02-25 10:25:09] [INFO] [main] com.example.webapp.JettyServer - Starting Jetty server...
+[2025-02-25 10:25:09] [INFO] [main] org.eclipse.jetty.server.Server - jetty-11.0.17; built: 2023-10-09T18:39:14.424Z; git: 48e7716b9462bebea6732b885dbebb4300787a5c; jvm 23.0.2+7-58
+[2025-02-25 10:25:09] [INFO] [main] o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+[2025-02-25 10:25:09] [INFO] [main] o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@3bf9ce3e{/,null,AVAILABLE}
+[2025-02-25 10:25:09] [INFO] [main] o.e.jetty.server.AbstractConnector - Started ServerConnector@3427b02d{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+[2025-02-25 10:25:09] [INFO] [main] org.eclipse.jetty.server.Server - Started Server@6f03482{STARTING}[11.0.17,sto=0] @433ms
+[2025-02-25 10:25:09] [INFO] [main] com.example.webapp.JettyServer -  http://localhost:8080/webpage
+[2025-02-25 10:26:35] [INFO] [main] com.example.webapp.JettyServer - Starting Jetty server...
+[2025-02-25 10:26:36] [INFO] [main] org.eclipse.jetty.server.Server - jetty-11.0.17; built: 2023-10-09T18:39:14.424Z; git: 48e7716b9462bebea6732b885dbebb4300787a5c; jvm 23.0.2+7-58
+[2025-02-25 10:26:36] [INFO] [main] o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+[2025-02-25 10:26:36] [INFO] [main] o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@3bf9ce3e{/,null,AVAILABLE}
+[2025-02-25 10:26:36] [INFO] [main] o.e.jetty.server.AbstractConnector - Started ServerConnector@3427b02d{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+[2025-02-25 10:26:36] [INFO] [main] org.eclipse.jetty.server.Server - Started Server@6f03482{STARTING}[11.0.17,sto=0] @443ms
+[2025-02-25 10:26:36] [INFO] [main] com.example.webapp.JettyServer -  http://localhost:8080/webpage
+[2025-02-25 10:26:38] [INFO] [qtp2065857933-55] com.example.webapp.HelloServlet - Received request from [0:0:0:0:0:0:0:1]
+[2025-02-25 10:26:38] [DEBUG] [qtp2065857933-55] com.example.webapp.HelloServlet - Response sent successfully
+[2025-02-25 10:28:08] [INFO] [main] com.example.webapp.JettyServer - Starting Jetty server...
+[2025-02-25 10:28:08] [INFO] [main] org.eclipse.jetty.server.Server - jetty-11.0.17; built: 2023-10-09T18:39:14.424Z; git: 48e7716b9462bebea6732b885dbebb4300787a5c; jvm 23.0.2+7-58
+[2025-02-25 10:28:09] [INFO] [main] o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+[2025-02-25 10:28:09] [INFO] [main] o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@3bf9ce3e{/,null,AVAILABLE}
+[2025-02-25 10:28:09] [INFO] [main] o.e.jetty.server.AbstractConnector - Started ServerConnector@3427b02d{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+[2025-02-25 10:28:09] [INFO] [main] org.eclipse.jetty.server.Server - Started Server@6f03482{STARTING}[11.0.17,sto=0] @457ms
+[2025-02-25 10:28:09] [INFO] [main] com.example.webapp.JettyServer -  http://localhost:8080/webpage
+[2025-02-25 10:35:22] [INFO] [main] com.example.webapp.JettyServer - Starting Jetty server...
+[2025-02-25 10:35:22] [INFO] [main] org.eclipse.jetty.server.Server - jetty-11.0.17; built: 2023-10-09T18:39:14.424Z; git: 48e7716b9462bebea6732b885dbebb4300787a5c; jvm 23.0.2+7-58
+[2025-02-25 10:35:22] [INFO] [main] o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+[2025-02-25 10:35:22] [INFO] [main] o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@3bf9ce3e{/,null,AVAILABLE}
+[2025-02-25 10:35:22] [INFO] [main] o.e.jetty.server.AbstractConnector - Started ServerConnector@3427b02d{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+[2025-02-25 10:35:22] [INFO] [main] org.eclipse.jetty.server.Server - Started Server@6f03482{STARTING}[11.0.17,sto=0] @467ms
+[2025-02-25 10:35:22] [INFO] [main] com.example.webapp.JettyServer -  http://localhost:8080/webpage
